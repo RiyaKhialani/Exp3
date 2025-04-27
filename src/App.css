@@ -1,0 +1,27 @@
+.App {
+  border: 2px solid black;
+  text-align: center;
+  padding: 30px;
+  max-width: 500px;
+  margin: 50px auto;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin: 10px;
+}
+
+img {
+  margin-top: 20px;
+  max-width: 100%;
+  border-radius: 8px;
+}
